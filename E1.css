@@ -1,0 +1,52 @@
+.logo-container {
+    color: white;
+    float: left;
+    padding: 0px 50px;
+}
+
+.navigation{
+    float: right;
+    height: 60%;
+    padding: 0px 40px 0px 0px;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #101010;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.header {
+    background-color: #101010;
+    height: 80px;
+}
+
+.content {
+    padding: 0px 300px 0px 300px;
+}
+
+.text {
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.image {
+    padding: 0px 20px 0px 0px;
+    width: 50%;
+    float: left;
+}
